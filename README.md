@@ -20,6 +20,6 @@ Programa de adicionar Pilotos e aeronaves:
    -Localiza o piloto por CPF
    
    [5] - LISTA DE AERONAVES
-   -Lista naves cadastras
+   -Lista naves cadastradas
    -Caso nao tenha nenhuma o sistema avisara ao usuario
 
